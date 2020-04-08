@@ -1,0 +1,41 @@
+html {
+  margin: 0pt;
+  background-color: black;
+  color: yellow;
+  font-family: "ITC Gothic", serif;
+}
+
+.titleBar {
+  font-size: 43px;
+  text-align: center;
+}
+
+.vaderBox {
+  width: 50%;
+  float: left;
+}
+
+.babyYodaBox {
+  width: 50%;
+  float: right;
+}
+
+.yodaBox {
+  width: 50%;
+  float: left;
+}
+
+.vader {
+  border: 5px;
+  width: 100%;
+}
+
+.babyYoda {
+  border: 5px;
+  width: 100%;
+}
+
+.yoda {
+  border: 5px;
+  width: 100%;
+}
